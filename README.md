@@ -4,7 +4,7 @@ This project is designed to predict drug-microbe interactions.
 Requirements
 The following packages are required:
 
-Python 3.8
+Python==3.8
 
 torch==1.13
 
